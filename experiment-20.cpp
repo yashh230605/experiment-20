@@ -39,3 +39,19 @@ int main(){
     }
     return 0;
 }
+
+//Output
+How many elements in your array?
+10
+Enter 10 Elements:
+2
+3
+4
+5
+6
+7
+8
+9
+90
+1
+Sorted Array: 1 2 3 4 5 6 7 8 9 90 
